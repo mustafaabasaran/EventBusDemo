@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBusDemo.Common", "EventBusDemo.Common\EventBusDemo.Common.csproj", "{3B1E9940-CD32-4DF5-A9D8-103D3D503DF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBusDemo.Api", "EventBusDemo.Api\EventBusDemo.Api.csproj", "{35230F17-5422-4C18-8B5C-CE76CA3D4CAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBusDemo.Customers", "EventBusDemo.Customers\EventBusDemo.Customers.csproj", "{A38B4EEE-AF4E-4E61-84F0-688E68955D1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B1E9940-CD32-4DF5-A9D8-103D3D503DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B1E9940-CD32-4DF5-A9D8-103D3D503DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B1E9940-CD32-4DF5-A9D8-103D3D503DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B1E9940-CD32-4DF5-A9D8-103D3D503DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35230F17-5422-4C18-8B5C-CE76CA3D4CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35230F17-5422-4C18-8B5C-CE76CA3D4CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35230F17-5422-4C18-8B5C-CE76CA3D4CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35230F17-5422-4C18-8B5C-CE76CA3D4CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A38B4EEE-AF4E-4E61-84F0-688E68955D1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A38B4EEE-AF4E-4E61-84F0-688E68955D1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A38B4EEE-AF4E-4E61-84F0-688E68955D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A38B4EEE-AF4E-4E61-84F0-688E68955D1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
